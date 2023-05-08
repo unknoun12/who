@@ -16,3 +16,4 @@ pip3 install random
 
 pip3 install time
 
+python3 -m pip install termcolor or pip3 install termcolor
